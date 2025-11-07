@@ -1,5 +1,9 @@
+
+GitHub Link: https://github.com/ST10147766/PlatoCoffee_POE/tree/master
+YOUTUBE LINK: 
+
 ReadMe File
-GitHub Link: 
+
 Plato Cafe is a modern mobile application designed to enhance the coffee ordering experience for South African customers. The app allows users to browse menus, place orders, earn rewards, and receive real-time notifications - all while supporting multiple local languages.
                Purpose
 Digital Transformation - Modernize the coffee shop experience with mobile ordering
