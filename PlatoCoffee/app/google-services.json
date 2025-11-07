@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1039131958061",
+    "project_id": "databasedb-d8546",
+    "storage_bucket": "databasedb-d8546.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039131958061:android:050b96c6878345f8c051a4",
+        "android_client_info": {
+          "package_name": "com.example.platocoffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKqZEUMpIogCnvFFjtFyEA6OoWUoK-NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039131958061:android:97cce1fcd263b0bec051a4",
+        "android_client_info": {
+          "package_name": "com.example.tastemapperapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoKqZEUMpIogCnvFFjtFyEA6OoWUoK-NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
