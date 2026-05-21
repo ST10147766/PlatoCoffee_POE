@@ -1,5 +1,4 @@
 
-GitHub Link: https://github.com/ST10147766/PlatoCoffee_POE/tree/master
 YOUTUBE LINK: https://youtu.be/Noq05HzZB2Q
 
 ReadMe File
@@ -36,8 +35,6 @@ Technical Improvements:
 •	Architecture - Clean Architecture with MVVM pattern
 •	Documentation - Complete API and code documentation
 
-TUMELO CYNTHIA LAMOLA - ST10147766
-NONHLANHLA MASINGA - ST10048689
 
 
 
